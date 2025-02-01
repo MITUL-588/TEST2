@@ -1,5 +1,18 @@
 [
-  {
-    "url": "https://jsonplaceholder.typicode.com/posts"
-  }
+    {
+        "url": "https://semxx.com",
+        "name": "Semx Tool",
+    },
+    {
+        "url": "https://adsflyy.com",
+        "name": "Ad Tool",
+    },
+    {
+        "url": "https://dekhojetavalo.com",
+        "name": "Dekho Tool",
+    },
+    {
+        "url": "https://amiparinaarparina.com",
+        "name": "Parina Tool",
+    }
 ]
